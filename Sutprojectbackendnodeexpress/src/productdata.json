@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Atonic",
+    "image": "https://img01.ztat.net/article/spp-media-p1/ee3571c36a664733bdfee310c0758635/4a493b7b99c44303bd7ec0aa173498ea.jpg?imwidth=1800&filter=packshot",
+    "price": 260,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Frizzy Logic",
+    "image": "https://img01.ztat.net/article/spp-media-p1/58a3d39dfbb945c796534b74bc3ab7d1/257960de82124cdeb61ee8e24116722c.jpg?imwidth=1800&filter=packshot",
+    "price": 300,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Queenie",
+    "image": "https://img01.ztat.net/article/spp-media-p1/7f52df476219403ebfb4cdd9619922b8/c07dfe9e8ad64865b2d5c83cd167baaf.jpg?imwidth=300&filter=packshot",
+    "price": 400,
+    "stock": 10
+  },
+  {
+    "id": 4,
+    "name": "Rootalicious",
+    "image": "https://img01.ztat.net/article/spp-media-p1/99db42d7b07e4048925961578fb875e3/6a3996c46f13400eaa996cd10951081f.jpg?imwidth=1800&filter=packshot",
+    "price": 350,
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Style-Guru",
+    "image": "https://img01.ztat.net/article/spp-media-p1/e8af365f94da4c1b905a609b650633d7/bf9080147d8c42c0a391b45cb57c0bf4.jpg?imwidth=1800&filter=packshot",
+    "price": 280,
+    "stock": 10
+  },
+  {
+    "id": 6,
+    "name": "Project sukuroi",
+    "image": "https://img01.ztat.net/article/spp-media-p1/84b322aef2334f40b2a303dff10b4567/ebb8e1465ba5486f93ec34993d7346f7.jpg?imwidth=1800&filter=packshot",
+    "price": 380,
+    "stock": 10
+  }
+]
